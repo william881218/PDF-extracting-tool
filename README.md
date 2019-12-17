@@ -1,4 +1,4 @@
-## PDF extracter
+## PDF extractor
 
 ### Usage
 My friend has a large number of PDFs, which saves lots of customer's data.
